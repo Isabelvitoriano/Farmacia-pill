@@ -3,7 +3,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Isabelvitoriano/Farmacia-pill?style=for-the-badge)
 ![GitHub language count](https://img.shields.io/github/languages/count/Isabelvitoriano/Farmacia-pill?style=for-the-badge)
 
-[![Preview do Projeto](./assets/home.png)](https://www.figma.com/proto/OawJf5CZ0GZMItO7A2MzI6/Farm%C3%A1cia-PILL?node-id=33-3&t=7c9plJ8D6d2n0P5q-1)
+[![Preview do Projeto](./assets/home.jpg)](https://www.figma.com/proto/OawJf5CZ0GZMItO7A2MzI6/Farm%C3%A1cia-PILL?node-id=33-3&t=7c9plJ8D6d2n0P5q-1)
 
 > A Pill é uma plataforma que reúne farmácias parceiras para oferecer medicamentos com preços competitivos, facilitando a compra, a localização de estabelecimentos próximos e o acompanhamento personalizado do tratamento dos usuários.
 
