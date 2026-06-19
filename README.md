@@ -21,15 +21,52 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="https://www.github.com/Isabelvitoriano" title="Designer e Desenvolvedora">
-        <img src="https://avatars3.githubusercontent.com/isabelvitoriano" width="100px;" alt="Foto do Isabel Vitoriano no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/isabelvitoriano" width="100px;" alt="Foto da Isabel Vitoriano no GitHub"/><br>
         <sub>
           <b>Isabel Vitoriano</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.github.com/analeshh" title="Líder e Gestora de Negócios">
+        <img src="https://avatars3.githubusercontent.com/analeshh" width="100px;" alt="Foto da Ana Leticia Chimenes no GitHub"/><br>
+        <sub>
+          <b>Ana Leticia Chimenes</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.github.com/raphimw2e" title="Suporte de Design e Analista de Dados">
+        <img src="https://avatars3.githubusercontent.com/raphimw2e" width="100px;" alt="Foto da Rafaela de Araújo no GitHub"/><br>
+        <sub>
+          <b>Rafaela de Araújo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.github.com/dev-jpaulo" title="Idealizador do Projeto">
+        <img src="https://avatars3.githubusercontent.com/dev-jpaulo" width="100px;" alt="Foto do João Paulo no GitHub"/><br>
+        <sub>
+          <b>João Paulo de Holanda</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.github.com/fefter" title="Pesquisadora e Analista de Dados">
+        <img src="https://avatars3.githubusercontent.com/fefter" width="100px;" alt="Foto da Fernanda Pinheiro no GitHub"/><br>
+        <sub>
+          <b>Fernanda Pinheiro</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.github.com/Error-710" title="Pesquisador e Desenvolvedor">
+        <img src="https://avatars3.githubusercontent.com/Error-710" width="100px;" alt="Foto doPedro Renan no GitHub"/><br>
+        <sub>
+          <b>Pedro Renan Mesquita Brasil</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
