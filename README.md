@@ -29,9 +29,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.github.com/analeshh" title="Líder e Gestora de Negócios">
-        <img src="https://avatars3.githubusercontent.com/analeshh" width="100px;" alt="Foto da Ana Leticia Chimenes no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/analeshh" width="100px;" alt="Foto da Leticia Chimenes no GitHub"/><br>
         <sub>
-          <b>Ana Leticia Chimenes</b>
+          <b>Leticia Chimenes</b>
         </sub>
       </a>
     </td>
@@ -61,9 +61,9 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="https://www.github.com/Error-710" title="Pesquisador e Desenvolvedor">
-        <img src="https://avatars3.githubusercontent.com/Error-710" width="100px;" alt="Foto doPedro Renan no GitHub"/><br>
+        <img src="https://avatars3.githubusercontent.com/Error-710" width="100px;" alt="Foto do Pedro Renan no GitHub"/><br>
         <sub>
-          <b>Pedro Renan Mesquita Brasil</b>
+          <b>Renan Mesquita Brasil</b>
         </sub>
       </a>
     </td>
