@@ -7,12 +7,6 @@
 
 > A Pill é uma plataforma que reúne farmácias parceiras para oferecer medicamentos com preços competitivos, facilitando a compra, a localização de estabelecimentos próximos e o acompanhamento personalizado do tratamento dos usuários.
 
-### Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
-
-- [ ] Desenvolvimento da estrutura HTML da página
-
 ## 🤝 Colaboradores
 
 Agradecemos às seguintes pessoas que contribuíram para este projeto:
